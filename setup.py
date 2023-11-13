@@ -5,7 +5,7 @@ setuptools.setup(
     name='math_quiz',
     version='0.0.1',
     description='Gowtham178 python module',
-    url='https://github.com/Gowtham178/Gowtham-rajendran.git'
+    url='https://github.com/Gowtham178/Gowtham-rajendran.git',
     author='Gowtham178',
     author_email='contact@Gowtham178.com',
     packages=setuptools.find_packages(),
