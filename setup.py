@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     include_package_data=True,
-    name='Gowtham178',
+    name='math_quiz',
     version='0.0.1',
     description='Gowtham178 python module',
     url='https://github.com/Gowtham178/Gowtham-rajendran.git',
